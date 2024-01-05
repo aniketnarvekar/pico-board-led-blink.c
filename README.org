@@ -1,0 +1,16 @@
+#+TITLE: Blink LED
+
+* Introduction
+
+The project blinks the on-board LED on the Raspberry Pi Pico board.
+
+* Skills
+
+- Installing Raspberry Pi Pico SDK
+- CMake changes for Pico
+
+* References
+
+- The Getting started guide and C/C++ SDK in Raspberry Pi Pico
+  [[https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html][documentation]].
+- Pico C SDK [[https://www.raspberrypi.com/documentation/pico-sdk/hardware.html#ga71d35b29e897b9bb4fc881b587b08cab][APIs]].
